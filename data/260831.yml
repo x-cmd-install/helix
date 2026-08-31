@@ -1,0 +1,64 @@
+about:
+  description: A post-modern modal text editor.
+  license: MPL-2.0
+  homepage: https://helix-editor.com
+  head: 079a789
+  archived: false
+  latestVersion: 25.07.1
+  collectedAt: 2026-08-31T05:22:15Z
+timeline:
+  created: 2020-06-01
+  lastCommit: 2026-07-23
+  lastRelease: 2025-07-18
+popularity:
+  star: 46032
+  watcher: 222
+  fork: 3712
+  release: 30
+  contributor: 1289
+  pullRequest: 2087
+  issue: 5952
+language:
+  Rust: 3661582
+  Tree-sitter Query: 1084843
+  Handlebars: 16739
+  Nix: 9939
+  CSS: 6873
+  Shell: 3839
+  JavaScript: 3029
+  Elvish: 2138
+  Nushell: 1946
+totalLine: 4790928
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 0
+    openPR: 50
+    closedIssue: 4
+    openIssue: 14
+    commit: 0
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 55
+    openPR: 132
+    closedIssue: 33
+    openIssue: 64
+    commit: 133
+  last180d:
+    since: 2026-03-04
+    release: 0
+    mergedPR: 210
+    openPR: 185
+    closedIssue: 82
+    openIssue: 135
+    commit: 434
+  last360d:
+    since: 2025-09-05
+    release: 0
+    mergedPR: 553
+    openPR: 286
+    closedIssue: 225
+    openIssue: 320
+    commit: 807
