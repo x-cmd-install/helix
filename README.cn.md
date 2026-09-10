@@ -4,13 +4,25 @@
 
 A post-modern modal text editor.
 
-![helix](https://repo.x-cmd.io/helix.svg)
+![helix](https://repo.x-cmd.io/helix.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install helix
 ```
+
+## 代码洞察
+
+合计: **151,000** 行代码（覆盖前 5 种语言、共 **1693** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 83,879 | 5,324 | 11,348 | 251 |
+| Scheme | 39,072 | 4,607 | 9,189 | 1193 |
+| Toml | 24,964 | 2,084 | 3,779 | 241 |
+| Nix | 371 | 133 | 40 | 7 |
+| Handlebars | 311 | 16 | 42 | 1 |
 
 ## 源代码
 
@@ -23,35 +35,39 @@ x install helix
 - **最新版本**: `25.07.1` (2025-07-18)
 - **最近提交**: 2026-07-23
 - **Release 含资产**: 9 个
-- **发布时间**: 2025-07-18T15:13:19Z
 
 ## 流行度
 
-- **Star**: 46,156 · **Fork**: 3,736 · **开放 issue**: 5,958 · **贡献者**: 1,289
+- **Star**: 46,172 · **Fork**: 3,739 · **开放 issue**: 5,958 · **贡献者**: 1,289
 
 ## 累计统计
 
-- **发布数**: 30 · **已合并 PR**: 4875 · **开放 PR**: 547 · **已关闭 issue**: 4857 · **开放 issue**: 1101 · **提交数**: 7689
+- **发布数**: 30 · **已合并 PR**: 4875 · **开放 PR**: 549 · **已关闭 issue**: 4857 · **开放 issue**: 1101 · **提交数**: 7689
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 36 | 3 | 16 | 0 |
-| 90d | 2026-06-12 | 0 | 42 | 135 | 27 | 67 | 111 |
-| 360d | 2025-09-15 | 0 | 531 | 290 | 216 | 315 | 785 |
+| 30d | 2026-08-11 | 0 | 0 | 39 | 3 | 16 | 0 |
+| last60d | 2026-07-12 | 0 | 8 | 107 | 6 | 42 | 13 |
+| 90d | 2026-06-12 | 0 | 42 | 137 | 27 | 67 | 111 |
+| last180d | 2026-03-14 | 0 | 187 | 194 | 74 | 138 | 369 |
+| 360d | 2025-09-15 | 0 | 531 | 292 | 216 | 315 | 785 |
+| last720d | 2024-09-20 | 4 | 1232 | 421 | 884 | 608 | 1760 |
 
-## 代码规模
+## Release 资产
 
-合计: **151,000** 行代码（覆盖前 5 种语言、共 **1693** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 83,879 | 5,324 | 11,348 | 251 |
-| Scheme | 39,072 | 4,607 | 9,189 | 1193 |
-| Toml | 24,964 | 2,084 | 3,779 | 241 |
-| Nix | 371 | 133 | 40 | 7 |
-| Handlebars | 311 | 16 | 42 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [helix-25.07.1-aarch64-linux.tar.xz](https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-aarch64-linux.tar.xz) | 14.9 MiB | `native/linux/arm64` |
+| [helix-25.07.1-aarch64-macos.tar.xz](https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-aarch64-macos.tar.xz) | 15.9 MiB | `native/darwin/arm64` |
+| [helix-25.07.1-source.tar.xz](https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-source.tar.xz) | 162.2 MiB | `other` |
+| [helix-25.07.1-x86_64-linux.tar.xz](https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-x86_64-linux.tar.xz) | 15.9 MiB | `native/linux/x64` |
+| [helix-25.07.1-x86_64-macos.tar.xz](https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-x86_64-macos.tar.xz) | 15.4 MiB | `native/darwin/x64` |
+| [helix-25.07.1-x86_64-windows.zip](https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-x86_64-windows.zip) | 27.2 MiB | `native/win/x64` |
+| [helix-25.07.1-x86_64.AppImage](https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-x86_64.AppImage) | 23.8 MiB | `other` |
+| [helix-25.07.1-x86_64.AppImage.zsync](https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-x86_64.AppImage.zsync) | 83.6 KiB | `other` |
+| [helix_25.7.1-1_amd64.deb](https://github.com/helix-editor/helix/releases/download/25.07.1/helix_25.7.1-1_amd64.deb) | 16.2 MiB | `runtime/deb/amd64` |
 
 ## 改进这些数据
 
@@ -62,4 +78,4 @@ helix 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:38:23Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:53:46Z._
