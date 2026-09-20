@@ -4,7 +4,7 @@
 
 A post-modern modal text editor.
 
-![helix](https://repo.x-cmd.io/helix.svg)
+[![x-cmd/install — helix Code Quality Monitoring Repo Card](https://repo.x-cmd.io/helix.svg)](https://x-cmd.com/install/helix)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **151,000** lines of code across **1693** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 46,261 · **Forks**: 3,755 · **Open issues**: 5,962 · **Contributors**: 1,289
+- **Stars**: 46,278 · **Forks**: 3,764 · **Open issues**: 5,962 · **Contributors**: 1,289
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 4875 · **Open PRs**: 563 · **Closed issues**: 4857 · **Open issues**: 1105 · **Commits**: 7689
+- **Releases**: 30 · **Merged PRs**: 4875 · **Open PRs**: 573 · **Closed issues**: 4857 · **Open issues**: 1105 · **Commits**: 7689
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 42 | 2 | 17 | 0 |
-| last60d | 2026-07-20 | 0 | 1 | 101 | 5 | 38 | 2 |
-| 90d | 2026-06-20 | 0 | 39 | 146 | 23 | 63 | 97 |
-| last180d | 2026-03-22 | 0 | 159 | 205 | 67 | 131 | 360 |
-| 360d | 2025-09-23 | 0 | 520 | 304 | 208 | 313 | 772 |
-| last720d | 2024-09-28 | 4 | 1220 | 432 | 869 | 608 | 1749 |
+| 30d | 2026-08-21 | 0 | 0 | 48 | 1 | 16 | 0 |
+| last60d | 2026-07-22 | 0 | 1 | 109 | 5 | 32 | 2 |
+| 90d | 2026-06-22 | 0 | 35 | 153 | 22 | 61 | 97 |
+| last180d | 2026-03-24 | 0 | 148 | 214 | 64 | 130 | 360 |
+| 360d | 2025-09-25 | 0 | 517 | 312 | 206 | 311 | 772 |
+| last720d | 2024-09-30 | 4 | 1214 | 441 | 867 | 608 | 1746 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for helix lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:25:08Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:35:12Z._
