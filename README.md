@@ -38,22 +38,22 @@ Total: **150,994** lines of code across **1693** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 46,441 · **Forks**: 3,809 · **Open issues**: 5,972 · **Contributors**: 1,290
+- **Stars**: 46,454 · **Forks**: 3,810 · **Open issues**: 5,972 · **Contributors**: 1,290
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 4881 · **Open PRs**: 594 · **Closed issues**: 4860 · **Open issues**: 1112 · **Commits**: 7694
+- **Releases**: 30 · **Merged PRs**: 4881 · **Open PRs**: 596 · **Closed issues**: 4860 · **Open issues**: 1112 · **Commits**: 7694
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 1 | 62 | 2 | 16 | 5 |
-| last60d | 2026-08-04 | 0 | 5 | 99 | 6 | 31 | 5 |
-| 90d | 2026-07-05 | 0 | 16 | 161 | 13 | 58 | 19 |
-| last180d | 2026-04-06 | 0 | 121 | 226 | 59 | 127 | 314 |
-| 360d | 2025-10-08 | 0 | 508 | 327 | 201 | 309 | 759 |
-| last720d | 2024-10-13 | 4 | 1203 | 460 | 851 | 609 | 1729 |
+| 30d | 2026-09-04 | 0 | 1 | 63 | 2 | 16 | 5 |
+| last60d | 2026-08-05 | 0 | 5 | 100 | 6 | 31 | 5 |
+| 90d | 2026-07-06 | 0 | 16 | 159 | 11 | 58 | 19 |
+| last180d | 2026-04-07 | 0 | 119 | 227 | 56 | 125 | 314 |
+| 360d | 2025-10-09 | 0 | 505 | 329 | 200 | 307 | 759 |
+| last720d | 2024-10-14 | 4 | 1201 | 462 | 847 | 608 | 1729 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for helix lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:43:59Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:30:11Z._
