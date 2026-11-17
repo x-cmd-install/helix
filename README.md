@@ -14,14 +14,14 @@ x install helix
 
 ## Code insight
 
-Total: **151,463** lines of code across **1693** files in the top 5 languages.
+Total: **151,703** lines of code across **1693** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 84,346 | 5,260 | 11,383 | 251 |
-| Scheme | 39,072 | 4,607 | 9,189 | 1193 |
+| Rust | 84,534 | 5,271 | 11,385 | 251 |
+| Scheme | 39,088 | 4,612 | 9,195 | 1193 |
 | Toml | 24,956 | 2,083 | 3,777 | 241 |
-| Nix | 375 | 186 | 30 | 7 |
+| Nix | 376 | 189 | 30 | 7 |
 | Handlebars | 311 | 16 | 42 | 1 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **151,463** lines of code across **1693** files in the top 5 languages.
 ## Release
 
 - **Latest**: `25.07.1` (2025-07-18)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-17
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 46,905 · **Forks**: 4,008 · **Open issues**: 6,008 · **Contributors**: 1,291
+- **Stars**: 46,914 · **Forks**: 4,012 · **Open issues**: 6,008 · **Contributors**: 1,291
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 4881 · **Open PRs**: 641 · **Closed issues**: 4869 · **Open issues**: 1139 · **Commits**: 7709
+- **Releases**: 30 · **Merged PRs**: 4882 · **Open PRs**: 640 · **Closed issues**: 4870 · **Open issues**: 1138 · **Commits**: 7717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 52 | 2 | 23 | 13 |
-| last60d | 2026-09-17 | 0 | 1 | 113 | 6 | 40 | 19 |
-| 90d | 2026-08-18 | 0 | 2 | 154 | 9 | 58 | 19 |
-| last180d | 2026-05-20 | 0 | 78 | 266 | 51 | 121 | 292 |
-| 360d | 2025-11-21 | 0 | 424 | 352 | 169 | 279 | 664 |
-| last720d | 2024-11-26 | 4 | 1152 | 501 | 787 | 612 | 1662 |
+| 30d | 2026-10-18 | 0 | 0 | 52 | 2 | 22 | 21 |
+| last60d | 2026-09-18 | 0 | 2 | 107 | 7 | 39 | 27 |
+| 90d | 2026-08-19 | 0 | 3 | 152 | 10 | 56 | 27 |
+| last180d | 2026-05-21 | 0 | 79 | 265 | 52 | 118 | 300 |
+| 360d | 2025-11-22 | 0 | 424 | 351 | 168 | 278 | 672 |
+| last720d | 2024-11-27 | 4 | 1150 | 500 | 788 | 611 | 1667 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for helix lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:24:13Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:11:34Z._
